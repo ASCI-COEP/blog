@@ -1,11 +1,11 @@
 ---
 toc: true
 layout: post
-description: A minimal example of using markdown with fastpages.
+description: An example of how to use Markdown to contribute to ASCI Blog
 categories: [markdown]
-title: An Example Markdown Post
+title: Tutorial Markdown Post
 ---
-# Example Markdown Post
+# Tutorial Markdown Post
 
 ## Basic setup
 
