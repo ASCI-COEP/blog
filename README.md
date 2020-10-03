@@ -15,7 +15,7 @@ The most common approach is using [Markdown](https://github.com/adam-p/markdown-
 
 When your markdown source is ready, name it in `YYYY-MM-DD-Title.md`, add to `_posts` directory and submit a PR. It is as simple as that!🤗
 
-### Note
+### Note -
 Make sure to add `author: "<a href='Link to your portfolio/GitHub/LinkedIn'>Your Name</a>"` in the front matter section of your blog.
 
 - [Writing Blogs With Jupyter](https://github.com/fastai/fastpages#writing-blog-posts-with-jupyter)
