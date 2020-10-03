@@ -7,9 +7,9 @@ https://asci-coep.github.io/blog/
 
 Welcome to ASCI COEP's official blog! Submissions to this blog will direcly appear on our [blog website](https://asci-coep.github.io/blog/).
 
-## How to submit blogs?
+## How to submit a blog post?
 
-Congratulations on your resolve to write a blog!🎉 The first step is to choose an awesome topic and create an outline. Simultaneously, fork this repository.
+Congratulations on your resolve to write a blog post!🎉 The first step is to choose an awesome topic and create an outline. Simultaneously, fork this repository.
 
 The most common approach is using [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), with your own customizations. How to do that?🤔 Take a look at these [instructions](https://github.com/fastai/fastpages#customizing-blog-posts-with-front-matter). Cross refer that to our sample Markdown [post](https://asci-coep.github.io/blog/markdown/2020/10/01/tutorial-markdown-post.html) and its [source](https://github.com/ASCI-COEP/blog/blob/master/_posts/2020-01-14-test-markdown-post.md)😁. Links to instructions to create blogs using other methods is given at the bottom of this page.
 
