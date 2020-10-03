@@ -11,7 +11,7 @@ Welcome to ASCI COEP's official blog! Submissions to this blog will direcly appe
 
 Congratulations on your resolve to write a blog post!🎉 The first step is to choose an awesome topic and create an outline. Simultaneously, fork this repository.
 
-The most common approach is using [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), with your own customizations. How to do that?🤔 Take a look at these [instructions](https://github.com/fastai/fastpages#customizing-blog-posts-with-front-matter). Cross refer that to our sample Markdown [post](https://asci-coep.github.io/blog/markdown/2020/10/01/tutorial-markdown-post.html) and its [source](https://github.com/ASCI-COEP/blog/blob/master/_posts/2020-01-14-test-markdown-post.md)😁. Links to instructions to create blogs using other methods is given at the bottom of this page.
+The most common approach is using [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), with your own customizations. How to do that?🤔 Take a look at these [instructions](https://github.com/fastai/fastpages#customizing-blog-posts-with-front-matter). Cross refer that to our sample Markdown [post](https://asci-coep.github.io/blog/markdown/2020/10/01/tutorial-markdown-post.html) and its [source](https://raw.githubusercontent.com/ASCI-COEP/blog/master/_posts/2020-10-01-tutorial-markdown-post.md)😁. Links to instructions to create blogs using other methods is given at the bottom of this page.
 
 When your markdown source is ready, name it in `YYYY-MM-DD-Title.md`, add to `_posts` directory and submit a PR. It is as simple as that!🤗
 
